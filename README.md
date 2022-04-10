@@ -7,4 +7,5 @@ Each run provides a sample of what the table looks like, gives confusion matrixe
 The Accuracy and F1 results can change per run by ~ 20%. This is due to the training process with a small dataset.
 
 You can visit our github:https://github.com/SchoolSpice/COMP-542
+
 Or the Colab here: https://colab.research.google.com/drive/1qgetIA9igTwV86KG54JHhzliXTrKRl8u?usp=sharing
